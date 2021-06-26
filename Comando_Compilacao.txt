@@ -1,1 +1,0 @@
-g++ Fate.cpp Texto.cpp mainFate.cpp -o FATE_RPG.exe
