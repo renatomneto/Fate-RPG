@@ -12,3 +12,6 @@ Confiram [Personagens-e-Historia-do-RPG](https://github.com/renatomneto/Fate-RPG
 * Caso você esteja habituado com programação, basta baixar os arquivos e compilá-los, e aqui está o comando de compilação para facilitar: g++ Fate.cpp Texto.cpp mainFate.cpp -o FATE_RPG.exe
 
 Antes de começar, sugiro que confiram o arquivo [Tutorial-de-Jogabilidade](https://github.com/renatomneto/Fate-RPG/blob/main/Tutorial-de-Jogabilidade.txt), para entenderem um pouco melhor como o jogo será.
+
+## Adgradecimento
+Agradecemos ao professor João Paulo Reus Rodrigues Leite por ter ministrado a disciplina de Programação Orientada a Objeto que nos rendeu este incrível projeto!
